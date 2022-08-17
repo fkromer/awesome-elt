@@ -3,6 +3,7 @@
 ## extract+load
 
 - [Airbyte](https://airbyte.com)
+- [Blendo](https://www.blendo.co)
 - [Fivetran extract+load](https://www.fivetran.com/extract-load)
 
 ## transform
