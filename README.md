@@ -36,6 +36,13 @@ Data warehouses or services/software with focus on data warehouse capabilities.
 - [Snowflake](https://www.snowflake.com)
 - [Azure Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/)
 
+## change data capture
+
+Services or software with focus on change data capture capabilities.
+
+- [Oracle GoldenGate](https://www.oracle.com/integration/goldengate/)
+- [Qlik Replicate](https://www.qlik.com/us/products/qlik-replicate)
+
 ## worfklow
 
 Services/software with focus on overall workflow integration.
