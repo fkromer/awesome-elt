@@ -14,6 +14,8 @@
 
 - [Amazno Redshift](https://aws.amazon.com/redshift/)
 - [Google Cloud BigQuery](https://cloud.google.com/bigquery/)
+- [MySQL](https://www.mysql.com)
+- [PostgreSQL](https://www.postgresql.org)
 - [Snowflake](https://www.snowflake.com)
 
 ## worfklow
