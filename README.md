@@ -40,6 +40,7 @@ Data warehouses or services/software with focus on data warehouse capabilities.
 
 Services or software with focus on change data capture capabilities.
 
+- [IBM InfoSphere CDC](https://www.ibm.com/docs/en/iis/11.7?topic=overview-infosphere-change-data-capture)
 - [Oracle GoldenGate](https://www.oracle.com/integration/goldengate/)
 - [Qlik Replicate](https://www.qlik.com/us/products/qlik-replicate)
 
