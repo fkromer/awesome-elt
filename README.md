@@ -30,6 +30,7 @@ Services or software with focus on transformation capabilities.
 Data warehouses or services/software with focus on data warehouse capabilities. 
 
 - [Amazno Redshift](https://aws.amazon.com/redshift/)
+- [Cloudera Data Warehouse](https://www.cloudera.com/products/data-warehouse.html)
 - [Google Cloud BigQuery](https://cloud.google.com/bigquery/)
 - [MySQL](https://www.mysql.com)
 - [PostgreSQL](https://www.postgresql.org)
