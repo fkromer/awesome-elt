@@ -10,6 +10,12 @@
 - [Datameer](https://www.datameer.com)
 - [dbt](https://www.getdbt.com)
 
+## data warehouse
+
+- [Amazno Redshift](https://aws.amazon.com/redshift/)
+- [Google Cloud BigQuery](https://cloud.google.com/bigquery/)
+- [Snowflake](https://www.snowflake.com)
+
 ## worfklow
 
 - [Airflow](https://airflow.apache.org)
