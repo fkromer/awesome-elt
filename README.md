@@ -2,16 +2,22 @@
 
 ## extract+load
 
+Services or software with focus on extract and load capabilities.
+
 - [Airbyte](https://airbyte.com)
 - [Blendo](https://www.blendo.co)
 - [Fivetran extract+load](https://www.fivetran.com/extract-load)
 
 ## transform
 
+Services or software with focus on transformation capabilities.
+
 - [Datameer](https://www.datameer.com)
 - [dbt](https://www.getdbt.com)
 
 ## data warehouse
+
+Data warehouses or services/software with focus on data warehouse capabilities. 
 
 - [Amazno Redshift](https://aws.amazon.com/redshift/)
 - [Google Cloud BigQuery](https://cloud.google.com/bigquery/)
@@ -22,10 +28,14 @@
 
 ## worfklow
 
+Services/software with focus on overall workflow integration.
+
 - [Airflow](https://airflow.apache.org)
 - [Prefect 2.0](https://www.prefect.io)
 
 ## observability
+
+Services/software with focus on data observability (validation and monitoring).
 
 - [elementary](https://www.elementary-data.com)
 - [great_expectations](https://greatexpectations.io)
