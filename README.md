@@ -1,5 +1,15 @@
 # awesome-elt
 
+## data source
+
+Data sources from which data can be extracted.
+
+- CSV
+- Excel
+- SQL databases
+- websites (via web scrapers)
+- (hundreds of other sources) 
+
 ## extract+load
 
 Services or software with focus on extract and load capabilities.
@@ -15,7 +25,7 @@ Services or software with focus on transformation capabilities.
 - [Datameer](https://www.datameer.com)
 - [dbt](https://www.getdbt.com)
 
-## data warehouse
+## data warehouse (data sink)
 
 Data warehouses or services/software with focus on data warehouse capabilities. 
 
