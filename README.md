@@ -18,6 +18,7 @@
 - [MySQL](https://www.mysql.com)
 - [PostgreSQL](https://www.postgresql.org)
 - [Snowflake](https://www.snowflake.com)
+- [Azure Synapse Analytics](https://azure.microsoft.com/services/synapse-analytics/)
 
 ## worfklow
 
